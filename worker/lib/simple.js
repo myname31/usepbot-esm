@@ -5,8 +5,6 @@
    * Function By https://github.com/DikaArdnt/Hisoka-Morou
 */
 
-
-
 const {    
    jidDecode,    
    proto
