@@ -1,7 +1,7 @@
 # usepbot-esm
 WhatsApp bot using esm!
 
-• Note 
+• Note :
 Yang mau nambahin/recode silahkan, tapi Jan hapus wm ya ajg🗿
 
 ## Command Termux
